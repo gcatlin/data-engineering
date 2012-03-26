@@ -1,6 +1,5 @@
 ## Setup Instructions
 1. Clone the repo locally.
-1. Run the 'setup_db' script from the command line.
 1. Make the www/ dir web accessible.
 1. Browse the www/ dir.
 
