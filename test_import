@@ -1,0 +1,5 @@
+#!/bin/bash
+
+setup_db
+php normalize.php < example_input.tab
+export_data
